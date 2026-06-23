@@ -1,4 +1,4 @@
-# Sudox Portfolio 🚀
+# Sudox Portfolio 
 
 Welcome to my personal website. This project showcases my profile, skills, and social links. It is designed to be clean, fast, and responsiv.
 
