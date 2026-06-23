@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+  <channel>
+    <title>Sudox</title>
+    <description>The official blog of Sudox, a software developer.</description>
+    <link>https://your-domain.com</link>
+
+    <item>
+      <title>Welcome to my blog</title>
+      <description>First post on my developer blog.</description>
+      <link>https://your-domain.com/blog/welcome</link>
+      <pubDate>Mon, 23 Jun 2026 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
