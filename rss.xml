@@ -4,14 +4,14 @@
   <channel>
     <title>Sudox</title>
     <description>The official blog of Sudox, a software developer.</description>
-    <link>https://your-domain.com</link>
+    <link>https://sudox-sudox.vercel.app/</link>
 
-    <item>
+    <!-- <item>
       <title>Welcome to my blog</title>
       <description>First post on my developer blog.</description>
-      <link>https://your-domain.com/blog/welcome</link>
+      <link></link>
       <pubDate>Mon, 23 Jun 2026 10:00:00 GMT</pubDate>
-    </item>
+    </item> -->
 
   </channel>
 </rss>
