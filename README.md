@@ -1,25 +1,48 @@
-# Sudox Portfolio 
+# dravdzo | Personal Portfolio Website
 
-Welcome to my personal website. This project showcases my profile, skills, and social links. It is designed to be clean, fast, and responsiv.
+The official personal website of **Ahmed Waleed** (a.k.a. **dravdzo**), a Computer Engineering student at Zagazig University with a passion for Backend Development, Node.js, and DevOps.
 
-##  About Me
-Hi, I'm **Ahmed Waleed**, also known as **Sudox**. 
--  Computer Engineering student at **Zagazig University**.
--  Passionate about **Backend Development**, **Node.js**, and **DevOps**.
--  I enjoy learning new technologies, building real-world projects, and continuously improving my skills.
+🔗 **Live:** [dravdzo.vercel.app](https://dravdzo.vercel.app/)
 
-##  Technologies Used
-- **Frontend:** HTML5, CSS3 (Custom design), JavaScript (Vanilla)
-- **Feeds:** RSS Integration (`rss.xml`)
-- **Environment:** Linux (Ubuntu) development setup
+## About
 
-##  Project Structure
-Based on the project structure, the directory is organized as follows:
-- `assessst/css/style.css` - Custom styling.
-- `assessst/images/` - Visual assets including `logo.png` and `myDragon.jpeg`.
-- `assessst/js/main.js` - Client-side logic.
-- `index.html` - The main entry point.
-- `rss.xml` - Blog/Updates feed.
+This is a clean, responsive personal portfolio built with **modern HTML, CSS, and Vanilla JavaScript** — no frameworks, no bloat. It showcases my projects, a blog section, and includes a built-in RSS feed.
 
+## Features
 
+-  Responsive, minimal design
+-  Project showcase (pulled from GitHub repos)
+-  Blog section
+-  Built-in RSS feed (`/rss.xml`)
+-  Deployed on Vercel
 
+## Tech Stack
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+## Getting Started
+
+Clone the repo and open `index.html`, or serve it locally with any static server:
+
+```bash
+git clone https://github.com/dravdzo/dravdzo.git
+cd dravdzo
+# then open index.html in your browser, or use a local server:
+npx serve .
+```
+
+## Deployment
+
+This project is deployed on [Vercel](https://vercel.com). Any push to the main branch triggers an automatic redeploy.
+
+## Contact
+
+- GitHub: [@dravdzo](https://github.com/dravdzo)
+- LinkedIn: [dravdzo](https://www.linkedin.com/in/dravdzo/)
+- Email: ahmedelgebali574@gmail.com
+
+## License
+
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) © Ahmed Waleed
